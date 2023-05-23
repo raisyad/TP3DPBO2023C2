@@ -71,3 +71,5 @@ Keyboard Update
 <img width="960" alt="image" src="https://github.com/raisyad/TP3DPBO2023C2/assets/92106283/4573daa6-0220-40b1-93aa-275b05a5daf1">
 
 Preview Video :
+https://github.com/raisyad/TP3DPBO2023C2/blob/main/preview_video.mp4
+(diatas)
